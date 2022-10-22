@@ -16,4 +16,5 @@ Instead of :
       
       
 Pros : All the code is updated, since volumes don't have any runtime
+
 Cons : An update requires to reinstall plugins
